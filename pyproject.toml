@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 twilio = "8.9.1"
+python-dotenv = "1.0.0"
+uagents="0.6.2"
 
 
 [build-system]
