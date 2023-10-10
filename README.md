@@ -47,7 +47,7 @@ To use the environment variables from .env and install the project:
 ```http
   cd src
   source .env
-  poetry install
+  poetry shell
 ```
 
 ### Step 3:Run the main script
